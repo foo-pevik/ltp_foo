@@ -140,3 +140,4 @@ jobs:
           echo "::notice::GH_PERSONAL_ACCESS_TOKEN: $GH_PERSONAL_ACCESS_TOKEN"
           #git push https://${GH_PERSONAL_ACCESS_TOKEN}@github.com/linux-test-project/linux-test-project.github.com.git
           git push https://${GH_PERSONAL_ACCESS_TOKEN}@github.com/foo-pevik/linux-test-project.github.com_foo.git
+          echo "::notice::pushed $commit_desc"
