@@ -3,7 +3,9 @@
  * Copyright (c) 2020 Cyril Hrubis <chrubis@suse.cz>
  */
 
-/*
+/*\
+ * [Description]
+ *
  * Test TST_EXP_PASS and TST_EXP_PASS_SILENT macro.
  */
 
