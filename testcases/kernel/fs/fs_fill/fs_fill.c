@@ -3,7 +3,9 @@
  * Copyright (c) 2017 Cyril Hrubis <chrubis@suse.cz>
  */
 
-/*
+/*\
+ * [Description]
+ *
  * Runs several threads that fills up the filesystem repeatedly.
  */
 
