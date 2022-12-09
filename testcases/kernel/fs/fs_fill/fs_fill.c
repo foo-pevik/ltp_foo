@@ -6,7 +6,7 @@
 /*\
  * [Description]
  *
- * Runs several threads that fills up the filesystem repeatedly.
+ * Runs several threads that fill up the filesystem repeatedly.
  */
 
 #define _GNU_SOURCE
